@@ -12,6 +12,13 @@ The Resume Ranking System is a powerful tool designed to streamline the recruitm
   <em>System Architecture</em>
 </p>
 
+## PPT
+
+[PPT](https://www.canva.com/design/DAF90kFVr0U/IcGPnaQfF6a9zd5PVgEB9w/view?utm_content=DAF90kFVr0U&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+## Video 
+
+[Video](https://youtu.be/AqkNJVWGXc8).
 ## Features
 
 - **Job Analysis**:
